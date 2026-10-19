@@ -1,0 +1,82 @@
+{
+    "students": [
+        {
+            "name": "Ajay",
+            "age": 18,
+            "email": "ajay@gmail.com",
+            "roll_no": "001",
+            "grade": {
+                "Math": 44.0,
+                "Hindi": 64.0,
+                "English": 72.0,
+                "Science": 95.0
+            }
+        },
+        {
+            "name": "Rohan",
+            "age": 20,
+            "email": "rohan@gmail.com",
+            "roll_no": "002",
+            "grade": {
+                "Math": 95.0,
+                "Science": 76.0,
+                "Hindi": 87.0,
+                "English": 94.0
+            }
+        },
+        {
+            "name": "Raghav",
+            "age": 22,
+            "email": "raghav@gmail.com",
+            "roll_no": "003",
+            "grade": {
+                "Science": 79.0,
+                "Math": 73.0,
+                "Hindi": 89.0,
+                "English": 97.0
+            }
+        },
+        {
+            "name": "Asad",
+            "age": 25,
+            "email": "asad@gmail.com",
+            "roll_no": "004",
+            "grade": {
+                "Hindi": 79.0,
+                "Science": 95.0,
+                "English": 84.0,
+                "Math": 98.0
+            }
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Rohan",
+            "age": 30,
+            "email": "rohan@gmail.com",
+            "subject": "Math",
+            "emp_id": "101"
+        },
+        {
+            "name": "Vinit",
+            "age": 28,
+            "email": "vinit@gmail.com",
+            "subject": "English",
+            "emp_id": "102"
+        },
+        {
+            "name": "Dev",
+            "age": 35,
+            "email": "dev@gmail.com",
+            "subject": "Science",
+            "emp_id": "103"
+        },
+        {
+            "name": "Shreya",
+            "age": 33,
+            "email": "shreya@gmail.com",
+            "subject": "Hindi",
+            "emp_id": "104"
+        }
+    ]
+}
